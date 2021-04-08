@@ -1,0 +1,93 @@
+.home-header {
+  height: 300px;
+  padding-top: 40px;
+  background: #ccc;
+  background-image: url(back-image.jpg);
+  background-size: cover;
+  background-position: center;
+  border-bottom: 20px solid #4A83C9;
+}
+
+.portrait-align {
+  padding-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resume_experience {
+  /*display: flex;*/
+  height: 750px;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  /*border-bottom: 20px solid #4A83C9;*/
+  color:#4A83C9;
+  font-family: PT Sefir;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.titles{
+  color:#192027;
+}
+
+.list {
+  color: #192027;
+  font-size: 15px;
+  font-weight: bold;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.description {
+  color:  #4A4B4B;
+  font-size: 17px;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.articles {
+  height: 900px;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  /*border-bottom: 20px solid #4A83C9;*/
+  color:#4A83C9;
+  font-family: PT Sefir;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 65px;
+  padding-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+}
+
+
+.bottom-border{
+  border-bottom: 20px solid #4A83C9;
+}
+
+}
+/*.item {
+  flex:1;
+}
+
+.fa {
+  flex: 1;
+}*/
+
+/*.divider{
+  margin-top: 20px;
+  height: 1px;
+  border-top: 2px dotted #4A83C9;
+  margin-bottom:20px;
+}*/
